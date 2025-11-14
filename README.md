@@ -1,12 +1,19 @@
-# _Hetzner Cloud_ - MODULE <img src="https://avatars.githubusercontent.com/u/140525456?s=200&v=4" alt="FMJ Studios Logo" align="right" width="128"/> <img src="https://raw.githubusercontent.com/fmjstudios/artwork/refs/heads/main/projects/terraform/icon/color/terraform-icon-color.png" alt="Terraform Logo" align="right" width="128"/>
+<p align="center">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/adnoctem/artwork/refs/heads/main/identity/icon/white/AdNoctem-Logo-White_256x256.png">
+      <img src="https://raw.githubusercontent.com/adnoctem/artwork/refs/heads/main/identity/icon/black/AdNoctem-Logo-Black_256x256.png" height="225">
+      <img src="https://raw.githubusercontent.com/adnoctem/artwork/refs/heads/main/projects/terraform/icon/color/terraform-icon-color.png" height="225">
+    </picture>
+    <h1 align="center">PROVIDER - MODULE</h1>
+</p>
 
 A [Terraform module][module] to ...
 
 ## ✨ TL;DR
 
 ```shell
-module "hetzner_server_apache" {
-  source = "terraform-hetzner-modules/cloud/server"
+module "my_module" {
+  source = "<org>/<provider>/<MODULE>"
   ...
 }
 ```
@@ -22,13 +29,13 @@ formats and versioning tips.
 
 ### 📥 Maintainers
 
-This project is owned and maintained by [FMJ Studios][org] refer to the [`AUTHORS`][authors] or [`CODEOWNERS`][owners]
+This project is owned and maintained by [Ad Noctem Collective][org] refer to the [`AUTHORS`][authors] or [`CODEOWNERS`][owners]
 for more information. You may also use the linked contact details to reach out directly.
 
 ### ©️ Copyright
 
 - _Assets provided by:_ **[HashCorp][hashicorp]**
-- _Sources provided by:_ **[FMJ Studios][org]** under the **[MIT License][license]**
+- _Sources provided by:_ **[Ad Noctem Collective][org]** under the **[MIT License][license]**
 
 <!-- INTERNAL REFERENCES -->
 
@@ -43,7 +50,7 @@ for more information. You may also use the linked contact details to reach out d
 
 <!-- General links -->
 
-[org]: https://github.com/fmjstudios
+[org]: https://github.com/adnoctem
 [hashicorp]: https://www.hashicorp.com/
 
 <!-- Third-party -->
