@@ -1,10 +1,10 @@
 <p align="center">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/adnoctem/artwork/refs/heads/main/identity/icon/white/AdNoctem-Logo-White_256x256.png">
-      <img src="https://raw.githubusercontent.com/adnoctem/artwork/refs/heads/main/identity/icon/black/AdNoctem-Logo-Black_256x256.png" height="225">
+      <img src="https://raw.githubusercontent.com/adnoctem/artwork/refs/heads/main/identity/icon/black/AdNoctem-Logo-Black_256x256.png" height="225" alt="Ad Noctem Collective Logo">
     </picture>
     <picture>
-      <img src="https://raw.githubusercontent.com/adnoctem/artwork/refs/heads/main/projects/terraform/icon/color/terraform-icon-color.png" height="225">
+      <img src="https://raw.githubusercontent.com/adnoctem/artwork/refs/heads/main/projects/terraform/icon/color/terraform-icon-color.png" height="225" alt="Terraform Logo">
     </picture>
     <h1 align="center">PROVIDER - MODULE</h1>
 </p>
@@ -36,7 +36,7 @@ for more information. You may also use the linked contact details to reach out d
 
 ### ©️ Copyright
 
-- _Assets provided by:_ **[HashCorp][hashicorp]**
+- _Assets provided by:_ **[HashiCorp][hashicorp]**
 - _Sources provided by:_ **[Ad Noctem Collective][org]** under the **[MIT License][license]**
 
 <!-- INTERNAL REFERENCES -->
