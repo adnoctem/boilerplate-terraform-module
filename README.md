@@ -2,6 +2,8 @@
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/adnoctem/artwork/refs/heads/main/identity/icon/white/AdNoctem-Logo-White_256x256.png">
       <img src="https://raw.githubusercontent.com/adnoctem/artwork/refs/heads/main/identity/icon/black/AdNoctem-Logo-Black_256x256.png" height="225">
+    </picture>
+    <picture>
       <img src="https://raw.githubusercontent.com/adnoctem/artwork/refs/heads/main/projects/terraform/icon/color/terraform-icon-color.png" height="225">
     </picture>
     <h1 align="center">PROVIDER - MODULE</h1>
